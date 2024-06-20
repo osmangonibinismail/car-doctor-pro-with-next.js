@@ -27,7 +27,7 @@ const Navbar = () => {
         {
             title: "Contact",
             path: "/contact"
-        },
+        }
     ]
 
     return (
